@@ -2,14 +2,11 @@
 title: 文章笔记 - 六个漂亮的ES6技巧
 date: 2018-08-25 17:35:15
 tags:
-  - shortcut
-  - mac
-  - terminal
-  - vim
-  - vscode
-  - chrome
+  - javascript
+  - javascript语法
 categories:
-  - 工具效率
+  - 文章笔记
+  - javascript
 ---
 
 ## 六个漂亮的 ES6 技巧
